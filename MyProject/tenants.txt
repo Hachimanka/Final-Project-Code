@@ -1,0 +1,4 @@
+1,Leonard Forrosuelo,09365314156,5000
+2,Karen Ducay,09847364773,900
+3,Richard Daruca,09483646734,5000
+4,Cyndrik,09837474833,0

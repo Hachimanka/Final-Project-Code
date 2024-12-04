@@ -1,0 +1,5 @@
+1,House,Tabagak,9000,Rented
+2,Commercial,maalat,900,Rented
+3,Studio Type,Cebu City,5500,Rented
+4,House,Taboan,3000,Rented
+5,Apartment,Sitio kulo,2000,Available
